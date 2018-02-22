@@ -1,0 +1,56 @@
+h2
+{
+	font-family:Arial,Fantasy;
+	color:white;
+}
+p
+{
+	color:lime;
+}
+h3
+{
+	font-family:Arial,Fantasy;
+	color:white;
+}
+body
+{
+	background-color:black;
+}
+h1
+{
+	color:white;
+	font-family:Arial,Fantasy;
+}
+ul
+{
+	color:lime;
+}
+img
+{
+	border-color:lime;
+	border-width:10px;
+	border-style:groove;
+}
+ol
+{
+	color:lime;
+}
+.center
+{
+	text-align:center;
+}
+/*#end is for the link which returns the viewer to the top of the page*/
+#end
+{
+	color:DodgerBlue;
+}
+#valid
+{
+	border-color:black;
+	border-style:hidden;
+}
+#footer
+{
+	background-color:lime;
+	color:black;
+}
